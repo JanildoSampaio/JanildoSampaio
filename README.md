@@ -6,8 +6,8 @@
 
 <h3 align="center">Meus Contatos:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/janildo-sampaio-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janildo-sampaio-cardoso" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/janildosampaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/janildosampaio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janildo-sampaio-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janildo-sampaio-cardoso" height="30" width="40" /></a>
+<a href="https://instagram.com/janildosampaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/janildosampaio" height="30" width="40" /></a>
 <a href="https://discord.gg/theend_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="theend_dev" height="30" width="40" /></a>
 </p>
 
