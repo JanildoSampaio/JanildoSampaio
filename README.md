@@ -3,11 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janildosampaio&label=Profile%20views&color=0e75b6&style=flat" alt="janildosampaio" /> </p>
 
+
+<p align="center">
+
 - 🌱 Estudando: **React, nodeJS**
 
 - 💬 Pergunte-me sobre: **HTML, CSS e JavaScript**
 
 - 📫 Contato: **janildoscddev@gmail.com**
+  
+</p>
+
 
 <h3 align="center">Meus Contatos:</h3>
 <p align="center">
