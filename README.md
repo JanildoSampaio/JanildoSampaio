@@ -1,9 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Janildo Sampaio Cardoso</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janildosampaio&label=Profile%20views&color=0e75b6&style=flat" alt="janildosampaio" /> </p>
-
-
 <h3 align="center">Meus Contatos:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/janildo-sampaio-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janildo-sampaio-cardoso" height="30" width="40" /></a>
